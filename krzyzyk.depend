@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465933487 source:c:\users\jaworek\desktop\krzyzyk\main.cpp
+	<iostream>
+	<cstdlib>
+
